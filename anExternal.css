@@ -1,0 +1,39 @@
+body {
+    background-color: #3aafa9;
+  }
+  
+  figure {
+    display: inline-block;
+    margin: 20px;
+  }
+
+  figure img {
+    vertical-align: top;
+  }
+
+  figure figcaption {
+    text-align: center;
+  }
+
+  h1 {
+    color: white;
+    text-align: center;
+    border: dotted;
+    border-radius: 20px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+
+  img {
+    filter: grayscale(100%);
+    float: left
+  }
+
+  button {
+      float: right;
+      padding: 50px;
+  }
