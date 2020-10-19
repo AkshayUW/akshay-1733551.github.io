@@ -11,10 +11,6 @@ body {
     vertical-align: top;
   }
 
-  figure figcaption {
-    text-align: center;
-  }
-
   h1 {
     color: white;
     text-align: center;
@@ -23,14 +19,12 @@ body {
     font-family: 'Times New Roman', Times, serif;
   }
   
+  .caption{position:relative; top:-45px; height:20px; left:8px; color:#ffff}
+  .container .caption{display:block;}
+
   p {
     font-family: verdana;
     font-size: 20px;
-  }
-
-  img {
-    filter: grayscale(100%);
-    float: left
   }
 
   button {
