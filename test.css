@@ -57,14 +57,6 @@ ul {
     padding-bottom: 8px;
 }
 
-#LeftNav img {
-    
-}
-
-#LeftNav h3 {
-
-}
-
 #Content {
     width: 700px;
     margin-left: auto;
@@ -80,8 +72,4 @@ ul {
     font-size: 20px;
     color: #FFBC00;
     font-weight: bold;
-}
-
-#Footer {
-
 }
